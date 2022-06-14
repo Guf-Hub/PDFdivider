@@ -12,7 +12,7 @@ A simple script to split PDF files into separate sheets.<br/>
 - Download the **.exe** file and run it, clicking on it will close the terminal window;<br/>
 - Place PDF files in **"download"** folder;<br/>
 - Re-download the **.exe** file;<br/>
-- Grab the split files from the **divide_pages** folder.<br/>
+- Grab the split files from the **"divide_pages"** folder.<br/>
 - 
 > On first run, a **"download"** folder will be created in the same directory as the **.exe** file.<br/>
 > It is possible that the antivirus will block the launch of the **.exe** file, due to the compiler. Grant permissions.
@@ -21,7 +21,7 @@ A simple script to split PDF files into separate sheets.<br/>
 - Скачайте **.exe** файл и запустите его, нажмите любую клавишу, окно терминала закроется;<br/>
 - Сложите файлы PDF в папку **"download"**;<br/>
 - Повторно запустите **.exe** файл;<br/>
-- Заберите разделённые файлы из папки **divide_pages**.
+- Заберите разделённые файлы из папки **"divide_pages"**.
 
 > При первом запуске в той же директории, что и файл **.exe** будет создана папка **"download"**.<br/>
 > Возможно, антивирус будет блокировать запуск файла **.exe**, связано с компилятором. Предоставьте разрешения.
