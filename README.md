@@ -1,6 +1,6 @@
 # PDFdivider
 A simple script to split PDF files into separate sheets.<br/>
-Простая программа, для разделения PDF файлов на отдельные листы.<br/>
+Простой скрипт, для разделения PDF файлов на отдельные листы.<br/>
 Написана на языке Python, с использованием библиотеки [**PyPDF2**](https://pypdf2.readthedocs.io/en/latest/index.html).<br/>
 Скомпилирована в **.exe** при помощи [**auto-py-to-exe**](https://github.com/brentvollebregt/auto-py-to-exe).<br/>
 **OS:** Windows
