@@ -13,7 +13,7 @@ A simple script to split PDF files into separate sheets.<br/>
 - Place PDF files in **"download"** folder;<br/>
 - Re-download the **.exe** file;<br/>
 - Grab the split files from the **"divide_pages"** folder.<br/>
-- 
+
 > On first run, a **"download"** folder will be created in the same directory as the **.exe** file.<br/>
 > It is possible that the antivirus will block the launch of the **.exe** file, due to the compiler. Grant permissions.
 
