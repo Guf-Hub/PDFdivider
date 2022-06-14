@@ -5,7 +5,8 @@ import PyPDF2
 
 
 def split_pdf_pages(input_pdf_path, target_dir, file_name_fmt=u'{num_page:04d}.pdf'):
-    """Функция разбивающая PDF файл на листы"""
+    """Function to split PDF file into sheets.
+       Функция разбивающая PDF файл на листы."""
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
 
@@ -27,7 +28,8 @@ def split_pdf_pages(input_pdf_path, target_dir, file_name_fmt=u'{num_page:04d}.p
 
 
 def main():
-    """Главня функция"""
+    """Main function
+       Главня функция"""
 
     if not os.path.exists('download'):
         os.mkdir('download')
