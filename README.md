@@ -1,15 +1,19 @@
 # PDFdivider
 Простая программа, для разделения PDF файлов на отдельные листы.<br/>
-Написана на языке Python, с использованием библиотеки [PyPDF2](https://pypdf2.readthedocs.io/en/latest/index.html).<br/>
-Скомпилирована в **.exe** при помощи [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).<br/>
-OS Windows.
+Написана на языке Python, с использованием библиотеки [**PyPDF2**](https://pypdf2.readthedocs.io/en/latest/index.html).<br/>
+Скомпилирована в **.exe** при помощи [**auto-py-to-exe**](https://github.com/brentvollebregt/auto-py-to-exe).<br/>
+**OS:** Windows.
 
 [![Donate](https://img.shields.io/badge/Donate-Yoomoney-green.svg)](https://yoomoney.ru/to/410019620244262)
+
 ## Использование
-- Скачайте **.exe** файл и запустите его (антивирус возможно будет блокировать), нажмите любую клавишу, оно терминала закроется.<br/>
-_При первом запуске в той же директории, что и файл **.exe** будет создана папка **"download"**, сложите в нее файлы PDF._<br/>
+- Скачайте **.exe** файл и запустите его, нажмите любую клавишу, окно терминала закроется;
+- Сложите файлы PDF в папку **"download"**;
 - Повторно запустите **.exe** файл;
 - Заберите разделённые файлы из папки **divide_pages**.
+
+> При первом запуске в той же директории, что и файл **.exe** будет создана папка **"download"**.<br/>
+> Возможно, антивирус будет блокировать запуск файла **.exe**, связано с компилятором. Предоставьте разрешения.
 
 ## Copyright & License
 
