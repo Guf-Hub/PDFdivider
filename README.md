@@ -6,7 +6,7 @@ A simple script to split PDF files into separate sheets.<br/>
 **OS:** Windows
 
 [![Donate](https://img.shields.io/badge/Donate-Yoomoney-green.svg)](https://yoomoney.ru/to/410019620244262)
-[![Donate](https://img.shields.io/badge/Donate.svg)](https://www.tbank.ru/cf/9TygAbvLg6C)
+[![Donate](https://img.shields.io/badge/Donate-Tbank-green.svg)](https://www.tbank.ru/cf/9TygAbvLg6C)
 
 ## Usage
 
